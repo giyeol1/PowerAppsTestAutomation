@@ -11,7 +11,7 @@ resources:
       name: giyeol1/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github.com_giyeol1
+      endpoint: https://github.com/giyeol1/PowerAppsTestAutomation.git
 
 parameters:
  - name: image
