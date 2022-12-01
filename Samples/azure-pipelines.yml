@@ -12,7 +12,7 @@ resources:
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
       endpoint: github.com_giyeol1
-
+ 
 parameters:
  - name: image
    displayName: Pool Image
